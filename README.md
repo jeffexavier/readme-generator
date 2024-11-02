@@ -14,13 +14,13 @@ O gerador de README.md é uma ferramenta criada para ajudar a comunidade a const
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/jeffexavier/README.md-generator.git
+   git clone https://github.com/jeffexavier/readme-generator.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd README.md-generator
+   cd readme-generator
    ```
 
 3. Instale as dependências:
